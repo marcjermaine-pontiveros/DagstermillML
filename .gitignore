@@ -1,0 +1,6 @@
+__pycache__/
+modules/__pycache__/
+.ipynb_checkpoints/
+*.ipynb
+![iris-*.ipynb]
+
